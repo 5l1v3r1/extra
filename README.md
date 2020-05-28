@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://asciinema.org/a/d2drRZkLdcA3YWgBL1ilnVAfD"><img src="https://asciinema.org/a/d2drRZkLdcA3YWgBL1ilnVAfD.svg" width="400" border=3/></a>
+   <a href="https://asciinema.org/a/d2drRZkLdcA3YWgBL1ilnVAfD"><img src="https://asciinema.org/a/d2drRZkLdcA3YWgBL1ilnVAfD.svg" width="400"/></a>
 </p>
 <p align="center">
    RBust blazing fast directory bruteforce tool </br> written in Rust
